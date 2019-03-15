@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Compass</string>
+    <string name="header_text">Отклонение от Севера 0.0</string>
+    <string name="compass">Compass</string>
 </resources>
